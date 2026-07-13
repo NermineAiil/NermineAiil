@@ -1,4 +1,4 @@
-# Hi, I'm Nermine Akil 👋
+# Hi, I'm Nermin Aeel👋
 
 <p align="center">
   I'm a Web Developer (2nd year student) who loves building projects with:
