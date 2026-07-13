@@ -1,8 +1,7 @@
 # Hi, I'm Nermin Aeel👋
-
+<p align="center"> Frontend Developer in progress 🚀 </p>
 <p align="center">
-  I'm a Web Developer (2nd year student) who loves building projects with:
-  HTML, CSS, JavaScript, C, Python.
+  Second-year Web Development student at the Lebanese University, passionate about building responsive and user-friendly web applications.
 </p>
 
 ---
@@ -15,8 +14,11 @@
 ---
 
 ## 🔭 About Me
-I’m passionate about **web development**, learning new technologies, and building real-world projects.
-
+.💻 Passionate about Frontend Development
+.📚 Currently learning React.js
+.🛠️ Improving my projects and expanding my portfolio
+.🌱 Always eager to learn new technologies and improve my skills
+.🎯 Looking for a Frontend Development Internship in Lebanon
 ---
 
 ## 💻 Skills
@@ -24,17 +26,47 @@ I’m passionate about **web development**, learning new technologies, and build
 - **CSS**
 - **JavaScript**
 - **C**
-- **Python (basic)**
-- **Shell Script**
-
+- **React.js**
 ---
 
 ## 🛠️ Tools
 - **VS Code**
 - **Git**
 - **GitHub**
+-**Flexbox and CSS Grid**
+---
+## 🚀 Featured Projects
+
+### 📋 Contact Form
+A responsive contact form project created to practice building user interfaces, handling user inputs, and improving frontend development skills.
+**Built with:**
+- HTML
+- CSS
+- JavaScript
+🔗 [View Project](github.com/NermineAiil/simple-login-form)
+
 
 ---
+
+### 🌐 Portfolio Website
+A personal portfolio website to showcase my skills, projects, and contact information.
+
+**Built with:**
+- HTML
+- CSS
+- JavaScript
+🔗 [View Project](github.com/NermineAiil/portfolio)
+---
+
+<!--### ⚛️ React Project
+A frontend project built with React.js to practice components and modern frontend concepts.
+
+**Built with:**
+- React.js
+- JavaScript
+- CSS-->
+
+🔗 [View Project](YOUR-GITHUB-LINK)
 
 ## 🌍 Languages
 - **Arabic (Native)**
@@ -43,21 +75,29 @@ I’m passionate about **web development**, learning new technologies, and build
 
 ---
 
-## 💼 Seeking Internship
-I’m currently looking for a **web development internship in Lebanon** to gain real experience and improve my skills.
-
----
-
 ## ⭐ My Goals
-- Build strong **web development skills**
-- Create real projects to add to my portfolio
-- Improve problem-solving and coding practices
-
+-Strengthen my  **frontend development** skills
+-Build real-world projects for my portfolio
+-Improve problem-solving abilities
+-Gain professional experience through internships
 ---
 
-## 🔗 Contact Me
-<p align="center">
-  <a href="mailto:nermeenakil42@gmail.com" target="_blank">Email</a>
+## 📫 Contact Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/Nermin Akil" target="_blank">
+    LinkedIn
+  </a>
+  |
+  <a href="https://github.com/NermineAiil" target="_blank">
+    GitHub
+  </a>
+  |
+  <a href="mailto:nermeenakil42@gmail.com">
+    Email
+  </a>
 </p>
+  
+
 
 
