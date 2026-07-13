@@ -1,7 +1,9 @@
 # Hi, I'm Nermin Aeel 👋
+
 <p align="center">
-  <b>Frontend Developer in Progress 🚀</b>
+  <b>Frontend Developer in progress 🚀</b>
 </p>
+
 <p align="center">
   Second-year Web Development student at the Lebanese University 🇱🇧
   <br>
@@ -9,7 +11,7 @@
   and continuously improving my technical skills through projects and learning.
 </p>
 
---- 
+---
 
 ## 🎓 Education
 
@@ -24,7 +26,7 @@
 <ul>
   <li>💻 Passionate about Frontend Development</li>
   <li>📚 Currently learning React.js</li>
-  <li>🛠️ Improving my projects and expanding my portfolio</li>
+  <li>🛠️ Building projects and expanding my portfolio</li>
   <li>🌱 Always eager to learn new technologies and improve my skills</li>
   <li>🎯 Looking for a Frontend Development Internship in Lebanon</li>
 </ul>
@@ -56,7 +58,7 @@
 
 ### 📋 Login Form
 
-A responsive login form project created to practice building user interfaces, handling user inputs, and improving frontend development skills.
+A responsive login form built to practice creating user interfaces, handling user inputs, and improving frontend development skills.
 
 **Built with:**
 - HTML
@@ -69,7 +71,7 @@ A responsive login form project created to practice building user interfaces, ha
 
 ### 🌐 Portfolio Website
 
-A personal portfolio website to showcase my skills, projects, and contact information.
+A personal portfolio website designed to showcase my skills, projects, and contact information.
 
 **Built with:**
 - HTML
@@ -100,17 +102,23 @@ A personal portfolio website to showcase my skills, projects, and contact inform
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nermin-akil-084826346" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
 
-  <a href="https://github.com/NermineAiil" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
+<a href="https://www.linkedin.com/in/nermin-akil-084826346" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-  <a href="mailto:nermeenakil42@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/NermineAiil" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:nermeenakil42@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
 </p>
 
   
