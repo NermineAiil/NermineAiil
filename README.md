@@ -1,14 +1,14 @@
 # Hi, I'm Nermin Aeel 👋
 <p align="center">
-  <b>Aspiring Frontend Developer 🚀</b>
+  <b>Frontend Developer in Progress 🚀</b>
 </p>
-
 <p align="center">
-  Second-year Web Development student at the Lebanese University, passionate about building responsive, user-friendly, and modern web applications.
+  Second-year Web Development student at the Lebanese University 🇱🇧
+  <br>
+  Passionate about frontend development, creating responsive web applications,
+  and continuously improving my technical skills through projects and learning.
 </p>
-
 ---
-
 ## 🎓 Education
 
 **Lebanese University**  
