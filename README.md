@@ -1,9 +1,13 @@
-# Hi, I'm Nermin Aeel👋
-<p align="center"> Frontend Developer in progress 🚀 </p>
+
+# Hi, I'm Nermin Aeel 👋
+
 <p align="center">
-  Second-year Web Development student at the Lebanese University, passionate about building responsive and user-friendly web applications.
+  <b>Frontend Developer in progress 🚀</b>
 </p>
 
+<p align="center">
+  Second-year Web Development student at the Lebanese University, passionate about building responsive, user-friendly, and modern web applications.
+</p>
 ---
 
 ## 🎓 Education
@@ -14,11 +18,13 @@
 ---
 
 ## 🔭 About Me
-<ul><li>💻 Passionate about Frontend Development
-📚 Currently learning React.js
-🛠️ Improving my projects and expanding my portfolio
-🌱 Always eager to learn new technologies and improve my skills
-🎯 Looking for a Frontend Development Internship in Lebanon</li><ul>
+<ul>
+  <li>💻 Passionate about Frontend Development</li>
+  <li>📚 Currently learning React.js</li>
+  <li>🛠️ Improving my projects and expanding my portfolio</li>
+ <li>🌱 Always eager to learn new technologies and improve my skills</li>
+ <li>🎯 Looking for a Frontend Development Internship in Lebanon</li>
+  <ul>
 ---
 
 ## 💻 Skills
@@ -37,15 +43,14 @@
 ---
 ## 🚀 Featured Projects
 
-### 📋 Contact Form
-A responsive contact form project created to practice building user interfaces, handling user inputs, and improving frontend development skills.
+### 📋 login Form
+A responsive login form project created to practice building user interfaces, handling user inputs, and improving frontend development skills.
 **Built with:**
 - HTML
 - CSS
 - JavaScript
+
 🔗 [View Project](github.com/NermineAiil/simple-login-form)
-
-
 ---
 
 ### 🌐 Portfolio Website
@@ -55,6 +60,7 @@ A personal portfolio website to showcase my skills, projects, and contact inform
 - HTML
 - CSS
 - JavaScript
+  
 🔗 [View Project](github.com/NermineAiil/portfolio)
 ---
 
@@ -64,9 +70,9 @@ A frontend project built with React.js to practice components and modern fronten
 **Built with:**
 - React.js
 - JavaScript
-- CSS-->
+- CSS
 
-🔗 [View Project](YOUR-GITHUB-LINK)
+🔗 [View Project](YOUR-GITHUB-LINK)-->
 
 ## 🌍 Languages
 - **Arabic (Native)**
@@ -85,18 +91,19 @@ A frontend project built with React.js to practice components and modern fronten
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/Nermin Akil" target="_blank">
-    LinkedIn
+  <a href="https://www.linkedin.com/in/NerminAkil" target="_blank">
+    💼 LinkedIn
   </a>
   |
   <a href="https://github.com/NermineAiil" target="_blank">
-    GitHub
+    🐙 GitHub
   </a>
   |
   <a href="mailto:nermeenakil42@gmail.com">
-    Email
+    📧 Email
   </a>
 </p>
+
   
 
 
