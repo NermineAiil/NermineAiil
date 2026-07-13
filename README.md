@@ -14,7 +14,7 @@
 
 **Lebanese University**  
 📌 2nd Year – Web Development  
-📍 Lebanon 🇱🇧
+📍 Lebanon 
 
 ---
 
@@ -99,18 +99,17 @@ A personal portfolio website to showcase my skills, projects, and contact inform
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/NerminAkil" target="_blank">
+  <a href="https://www.linkedin.com/in/NerminAkil" target="_blank"></a>
     💼 LinkedIn
-  </a>
+  
   |
-  <a href="https://github.com/NermineAiil" target="_blank">
+  <a href="https://github.com/NermineAiil" target="_blank"></a>
     🐙 GitHub
-  </a>
+  
   |
-  <a href="mailto:nermeenakil42@gmail.com">
+  <a href="mailto:nermeenakil42@gmail.com"></a>
     📧 Email
-  </a>
-</p>
+  </p>
 
   
 
