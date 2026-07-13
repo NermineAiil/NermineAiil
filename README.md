@@ -1,5 +1,4 @@
 # Hi, I'm Nermin Aeel 👋
-
 <p align="center">
   <b>Aspiring Frontend Developer 🚀</b>
 </p>
@@ -99,16 +98,18 @@ A personal portfolio website to showcase my skills, projects, and contact inform
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/NerminAkil" target="_blank"></a>
-    💼 LinkedIn
-  
+  💼<a href="https://www.linkedin.com/in/NerminAkil" target="_blank">
+   linkedin
+  </a>
   |
-  <a href="https://github.com/NermineAiil" target="_blank"></a>
-    🐙 GitHub
-  
+ 🐙 <a href="https://github.com/NermineAiil" target="_blank">
+     GitHub
+ </a>
   |
-  <a href="mailto:nermeenakil42@gmail.com"></a>
-    📧 Email
+  📧<a href="mailto:nermeenakil42@gmail.com">
+     Email
+  </a>
+</p>
   </p>
 
   
