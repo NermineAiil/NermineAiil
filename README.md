@@ -14,11 +14,11 @@
 ---
 
 ## 🔭 About Me
-.💻 Passionate about Frontend Development
-.📚 Currently learning React.js
-.🛠️ Improving my projects and expanding my portfolio
-.🌱 Always eager to learn new technologies and improve my skills
-.🎯 Looking for a Frontend Development Internship in Lebanon
+<ul><li>💻 Passionate about Frontend Development
+📚 Currently learning React.js
+🛠️ Improving my projects and expanding my portfolio
+🌱 Always eager to learn new technologies and improve my skills
+🎯 Looking for a Frontend Development Internship in Lebanon</li><ul>
 ---
 
 ## 💻 Skills
